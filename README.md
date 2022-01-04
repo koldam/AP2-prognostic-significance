@@ -1,3 +1,3 @@
 This repository stores RData files that serve as entry point for research described in article entitled "Prognostic significance of AP-2α/γ targets as cancer therapeutics" authored by Damian Kołat, Żaneta Kałuzińska, Andrzej K. Bednarek and Elżbieta Płuciennik (Department of Molecular Carcinogenesis, Medical University of Lodz, Poland). **This manuscript is currently under revision stage in Scientific Reports journal by Nature.**
 
-Previously, generation of R workspace was the ultimate step of methodology applied in previous research i.e. "Functional genomics of AP-2α and AP-2γ in cancers: _in silico_ study" (doi: 10.1186/s12920-020-00823-9) published in BMC Medical Genomics.
+Previously, generation of R workspace was one of steps of methodology applied in previous research i.e. "Functional genomics of AP-2α and AP-2γ in cancers: _in silico_ study" (doi: 10.1186/s12920-020-00823-9) published in BMC Medical Genomics.
